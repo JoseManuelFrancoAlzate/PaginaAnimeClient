@@ -1,0 +1,41 @@
+.container{
+width: 200px;
+height: 130px;
+border:100px;
+width: 300px;
+margin: 0 auto;
+padding: 20px;
+border: 1px solid #ccc;
+border-radius: 5px;
+background-color: #dfa615;
+}
+
+.input{
+height: 25px;
+}
+
+.button{
+    border-radius: 200px;
+    width: 100px;
+}
+
+.buttonRegister{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff0000; /* Color de fondo del botón */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave para el cambio de color */
+ 
+
+}
+
+.h3{
+    color: rgb(255, 255, 255);
+    background-color: #121211; /* Color de fondo del botón */
+    border-radius: 5px;
+width: 150px;
+}

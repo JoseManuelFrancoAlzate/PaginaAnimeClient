@@ -1,0 +1,64 @@
+.form{
+    background-color: rgba(0, 0, 255, 0.2); /* Azul con transparencia */
+    width: 200px;
+height: 300px;
+border:100px;
+width: 300px;
+margin: 0 auto;
+padding: 20px;
+border: 1px solid #ccc;
+border-radius: 5px;
+position: relative;
+top: 250px; left: 0px;
+}
+
+.input{
+    height: 25px;
+    position: relative;
+top: 70px; left: 0px;
+}
+
+.div{
+    background-image: url(https://preview.redd.it/gdmghr6kicx51.png?width=1000&format=png&auto=webp&s=94d43d89708fc0a2ad3475c724733705d83a294b);
+    height: 700px;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff5733; /* Color de fondo del botón */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave para el cambio de color */
+    position: relative;
+top: 90px; left: 0px;
+}
+
+.button:hover{
+    background-color: #ff8c66; /* Color de fondo del botón al pasar el mouse */
+
+}
+
+
+.button2{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #331e1a; /* Color de fondo del botón */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transición suave para el cambio de color */
+    position: relative;
+    height: 50px;
+top: -340px; left: -550px;
+}
+
+.button2:hover{
+    background-color: #d5c8c3; /* Color de fondo del botón al pasar el mouse */
+
+}

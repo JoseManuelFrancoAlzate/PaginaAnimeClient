@@ -1,0 +1,36 @@
+
+/* Estilos para las tarjetas de poderes */
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+  transition: transform 0.3s ease;
+  width: 350px; /* Establece un ancho fijo para cada tarjeta */
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Estilos para el nombre del poder */
+.name {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* Estilos para la descripción del poder */
+.description {
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Estilos para la imagen del poder */
+.img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
